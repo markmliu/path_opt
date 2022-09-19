@@ -1,0 +1,1 @@
+The notebook in this directory contains explanation and implementation code for the McNaughton cubic spiral path optimization. See the notebook itself for more documentation and details.
